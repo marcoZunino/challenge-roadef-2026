@@ -24,15 +24,15 @@ The **EURO/ROADEF 2026 Challenge** is an international optimization competition 
 The challenge provides three datasets with increasing difficulty and complexity:
 
 ### 📦 Dataset A 
-**Release Date**: March 6, 2026  
-**Purpose**: Initial problem instances for algorithm development and testing
+**Release Date**: March 6, 2026
+**Purpose**: Initial "easy" problem instances with horizon value bounded by two
 
 ### 📦 Dataset B 
-**Release Date**: June 15, 2026  
-**Purpose**: Intermediate difficulty instances for refined solutions
+**Release Date**: June 15, 2026
+**Purpose**: Intermediate difficulty instances, unbounded horizon value
 
 ### 📦 Dataset C 
-**Release Date**: October 5, 2026  
+**Release Date**: October 5, 2026
 **Purpose**: Final evaluation instances with highest complexity
 
 ## Tools
