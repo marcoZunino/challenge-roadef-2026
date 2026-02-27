@@ -10,6 +10,8 @@ The **EURO/ROADEF 2026 Challenge** is an international optimization competition 
 
 - **[Problem Description](doc/Challenge_Orange_ROADEF_2026_Subject.pdf)** — Formal specification of the optimization problem
 - **[Challenge Rules](doc/Challenge_Orange_ROADEF_2026_Rules.pdf)** — Official rules, submission requirements, and evaluation criteria
+- **[Challenge Presentation](doc/Slides_ROADEF_2026.pdf)** — Slides presented at ROADEF 2026 
+
 
 ## Getting Started
 
