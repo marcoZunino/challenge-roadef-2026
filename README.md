@@ -1,5 +1,8 @@
 <div align="center">
 <img src="doc/challenge_banner.svg" height="350" />
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19219524.svg)](https://doi.org/10.5281/zenodo.19219524)
+
 </div>
 
 # EURO/ROADEF 2026 Challenge
